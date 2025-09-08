@@ -47,7 +47,7 @@ nav > a {
 }
 
 nav > .buttons {
-  padding: 0.938em 2.188em;
+  padding: 0.5em 2.188em;
   display: flex;
   justify-content: space-between;
 }
@@ -106,7 +106,7 @@ a > img {
 }
 
 section {
-  padding: 0.75em 2.188em;
+  padding: 0.5em 2.188em;
 }
 
 section h2 {
@@ -124,7 +124,7 @@ section p {
 
 footer {
   background-color: #161619;
-  height: 4em;
+  height: 3em;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -134,4 +134,6 @@ footer {
 footer img {
   width: 1.563em;
 }
+
+
 
