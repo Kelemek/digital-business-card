@@ -106,7 +106,7 @@ a > img {
 }
 
 section {
-  padding: 0.5em 2.188em;
+  padding: .5em 2.188em .75em 2.188em;
 }
 
 section h2 {
@@ -124,7 +124,7 @@ section p {
 
 footer {
   background-color: #161619;
-  height: 3em;
+  height: 4em;
   display: flex;
   justify-content: center;
   align-items: center;
