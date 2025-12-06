@@ -22,3 +22,47 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Vite / build
+.vite
+build
+out
+
+# Environment
+.env
+.env.*.local
+
+# Testing
+coverage/
+nyc_output/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Misc caches
+.cache
+.parcel-cache
+
+# Yarn v2+ & pnpm
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# JetBrains
+.idea/
+
+# Local env files and secrets
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
